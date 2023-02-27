@@ -1,0 +1,1357 @@
+[
+    {
+        "quadroSocietario":[
+            {
+                "condicao":"EMPRESARIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"801",
+                "entradaSociendade":1271894400000,
+                "saidaSociedade":"None",
+                "participacao":"None",
+                "representanteLegal":"None"
+            }
+        ],
+        "pessoaJuridica":{
+            "endereco":{
+                "logradouro":"MANAUS",
+                "numero":"00",
+                "complemento":"APT 201;LOTE 21;QUADRA 124 ",
+                "bairro":"PARQUE AMAZONIA",
+                "cep":"74843170",
+                "municipio":{
+                    "nome":"GOIÂNIA",
+                    "uf":"GO",
+                    "codigoIbge":"520870",
+                    "codigoIbgeCompleto":"5208707"
+                }
+            },
+            "nomeEmpresarial":"ALEXANDRE MORELLI 02292619733",
+            "naturezaJuridica":"EMPRESARIO",
+            "codigoNaturezaJuridica":"213-5",
+            "nire":"52800076276",
+            "cnpj":"11821770000111",
+            "mei":true,
+            "constituicao":1271289600000,
+            "inicioAtividade":1271289600000,
+            "terminoAtividade":"None",
+            "historico":[
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1271289600000
+                },
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1271289600000
+                },
+                {
+                    "ato":{
+                        "codigo":"003",
+                        "descricao":"EXTINÇÃO/DISTRATO/DESCONSTITUIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"003",
+                        "descricao":"EXTINÇÃO/DISTRATO/DESCONSTITUIÇÃO"
+                    },
+                    "data":1391385600000
+                },
+                {
+                    "ato":{
+                        "codigo":"350",
+                        "descricao":"ENQUADRAMENTO DE MEI"
+                    },
+                    "evento":{
+                        "codigo":"350",
+                        "descricao":"ENQUADRAMENTO DE MEI"
+                    },
+                    "data":1271289600000
+                }
+            ],
+            "atividadeEconomica":[
+                {
+                    "cnae":"7319002",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"PROMOÇÃO DE VENDAS"
+                },
+                {
+                    "cnae":"4752100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO"
+                }
+            ],
+            "situacao":"EXTINTA",
+            "codigoSituacao":"03",
+            "porte":"ME",
+            "bloqueios":[
+                
+            ]
+        },
+        "ultimoArquivamento":1391385600000,
+        "capital":1.0
+    },
+    {
+        "quadroSocietario":[
+            {
+                "condicao":"TITULAR_PESSOA_FISICA",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"AVENIDA ELI ALVES FORTES",
+                        "numero":"SN",
+                        "complemento":"QUADRA24 LOTE 03",
+                        "bairro":"RESIDENCIAL SOLAR BOUGAINVILLE",
+                        "cep":"74393376",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"WILSLEY RODRIGUES DA SILVA",
+                    "cpf":"71318968100",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"SEPARACAO_BENS"
+                },
+                "codigoCondicao":"401",
+                "entradaSociendade":1565049600000,
+                "saidaSociedade":1670544000000,
+                "participacao":150000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"AVENIDA ELI ALVES FORTES",
+                        "numero":"SN",
+                        "complemento":"QUADRA24 LOTE 03",
+                        "bairro":"RESIDENCIAL SOLAR BOUGAINVILLE",
+                        "cep":"74393376",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"WILSLEY RODRIGUES DA SILVA",
+                    "cpf":"71318968100",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"SEPARACAO_BENS"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1565049600000,
+                "saidaSociedade":"None",
+                "participacao":0.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"TITULAR_PESSOA_FISICA",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"401",
+                "entradaSociendade":1426204800000,
+                "saidaSociedade":1565049600000,
+                "participacao":95400.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1340323200000,
+                "saidaSociedade":1347667200000,
+                "participacao":"None",
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"VIA JOAO ALVES DE CASTRO",
+                        "numero":"SN",
+                        "complemento":"QUADRA 35;LOTE 25",
+                        "bairro":"SETOR RIO FORMOSO",
+                        "cep":"74370140",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"WILSLENY RODRIGUES DA SILVA MORELLI",
+                    "cpf":"88951979172",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"None"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1340323200000,
+                "saidaSociedade":1542153600000,
+                "participacao":15000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"VIA JOAO ALVES DE CASTRO",
+                        "numero":"SN",
+                        "complemento":"QUADRA 35;LOTE 25",
+                        "bairro":"SETOR RIO FORMOSO",
+                        "cep":"74370140",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"WILSLENY RODRIGUES DA SILVA MORELLI",
+                    "cpf":"88951979172",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"None"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1340323200000,
+                "saidaSociedade":1542153600000,
+                "participacao":"None",
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA JOAO ALVES DE CASTRO",
+                        "numero":"None",
+                        "complemento":"QD 35 LT 25",
+                        "bairro":"COND. RIO FORMOSO",
+                        "cep":"74370140",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"DARLETE RODRIGUES DA SILVA",
+                    "cpf":"30933218168",
+                    "estadoCivil":"None",
+                    "regimeBens":"None"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1354492800000,
+                "saidaSociedade":1426204800000,
+                "participacao":300.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1426204800000,
+                "saidaSociedade":1543363200000,
+                "participacao":15000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1426204800000,
+                "saidaSociedade":1565049600000,
+                "participacao":0.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"AVENIDA ELI ALVES FORTES",
+                        "numero":"SN",
+                        "complemento":"QUADRA24 LOTE 03",
+                        "bairro":"RESIDENCIAL SOLAR BOUGAINVILLE",
+                        "cep":"74393376",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"WILSLEY RODRIGUES DA SILVA",
+                    "cpf":"71318968100",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"SEPARACAO_BENS"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1670544000000,
+                "saidaSociedade":"None",
+                "participacao":150000.0,
+                "representanteLegal":"None"
+            }
+        ],
+        "pessoaJuridica":{
+            "endereco":{
+                "logradouro":"AVENIDA NAPOLI",
+                "numero":"500",
+                "complemento":"QUADRA QC-01;LOTE AREA;COND PLAZA DORO OFFICE;SALA",
+                "bairro":"RES ELDORADO",
+                "cep":"74367640",
+                "municipio":{
+                    "nome":"GOIÂNIA",
+                    "uf":"GO",
+                    "codigoIbge":"520870",
+                    "codigoIbgeCompleto":"5208707"
+                }
+            },
+            "nomeEmpresarial":"WR TECNOLOGIA E SOLUÇÕES LTDA",
+            "naturezaJuridica":"SOCIEDADE_EMPRESARIA_LIMITADA",
+            "codigoNaturezaJuridica":"206-2",
+            "nire":"52600741993",
+            "cnpj":"15760716000164",
+            "mei":false,
+            "constituicao":1340323200000,
+            "inicioAtividade":1340323200000,
+            "terminoAtividade":"None",
+            "historico":[
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"046",
+                        "descricao":"TRANSFORMAÇÃO"
+                    },
+                    "data":1543363200000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"046",
+                        "descricao":"TRANSFORMAÇÃO"
+                    },
+                    "data":1543363200000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1589328000000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1354492800000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1426204800000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1490140800000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1566345600000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1372118400000
+                },
+                {
+                    "ato":{
+                        "codigo":"090",
+                        "descricao":"CONTRATO"
+                    },
+                    "evento":{
+                        "codigo":"090",
+                        "descricao":"CONTRATO"
+                    },
+                    "data":1340323200000
+                },
+                {
+                    "ato":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "evento":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "data":1340323200000
+                },
+                {
+                    "ato":{
+                        "codigo":"904",
+                        "descricao":"MEDIDA ADMINISTRATIVA"
+                    },
+                    "evento":{
+                        "codigo":"046",
+                        "descricao":"TRANSFORMAÇÃO"
+                    },
+                    "data":1670544000000
+                }
+            ],
+            "atividadeEconomica":[
+                {
+                    "cnae":"6120501",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TELEFONIA MÓVEL CELULAR"
+                },
+                {
+                    "cnae":"6202300",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR CUSTOMIZÁVEIS"
+                },
+                {
+                    "cnae":"4752100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"COMÉRCIO VAREJISTA ESPECIALIZADO DE EQUIPAMENTOS DE TELEFONIA E COMUNICAÇÃO"
+                },
+                {
+                    "cnae":"5819100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"EDIÇÃO DE CADASTROS, LISTAS E OUTROS PRODUTOS GRÁFICOS"
+                },
+                {
+                    "cnae":"6110803",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA - SCM"
+                },
+                {
+                    "cnae":"6130200",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TELECOMUNICAÇÕES POR SATÉLITE"
+                },
+                {
+                    "cnae":"6190699",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"OUTRAS ATIVIDADES DE TELECOMUNICAÇÕES NÃO ESPECIFICADAS ANTERIORMENTE"
+                },
+                {
+                    "cnae":"6203100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"DESENVOLVIMENTO E LICENCIAMENTO DE PROGRAMAS DE COMPUTADOR NÃO-CUSTOMIZÁVEIS"
+                },
+                {
+                    "cnae":"6204000",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO"
+                },
+                {
+                    "cnae":"6209100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"SUPORTE TÉCNICO, MANUTENÇÃO E OUTROS SERVIÇOS EM TECNOLOGIA DA INFORMAÇÃO"
+                },
+                {
+                    "cnae":"7490104",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE INTERMEDIAÇÃO E AGENCIAMENTO DE SERVIÇOS E NEGÓCIOS EM GERAL, EXCETO IMOBILIÁRIOS"
+                },
+                {
+                    "cnae":"7733100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ALUGUEL DE MÁQUINAS E EQUIPAMENTOS PARA ESCRITÓRIO"
+                },
+                {
+                    "cnae":"8219999",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"PREPARAÇÃO DE DOCUMENTOS E SERVIÇOS ESPECIALIZADOS DE APOIO ADMINISTRATIVO NÃO ESPECIFICADOS ANTERIORMENTE"
+                },
+                {
+                    "cnae":"8220200",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE TELEATENDIMENTO"
+                },
+                {
+                    "cnae":"8599603",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TREINAMENTO EM INFORMÁTICA"
+                },
+                {
+                    "cnae":"8599604",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL"
+                },
+                {
+                    "cnae":"9511800",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E DE EQUIPAMENTOS PERIFÉRICOS"
+                },
+                {
+                    "cnae":"9512600",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE COMUNICAÇÃO"
+                },
+                {
+                    "cnae":"4751201",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"Comércio varejista especializado de equipamentos e suprimentos de informática"
+                },
+                {
+                    "cnae":"6201501",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"Desenvolvimento de programas de computador sob encomenda"
+                }
+            ],
+            "situacao":"REGISTRO_ATIVO",
+            "codigoSituacao":"00",
+            "porte":"ME",
+            "bloqueios":[
+                
+            ]
+        },
+        "ultimoArquivamento":1670544000000,
+        "capital":150000.0,
+        "capitalIntegralizado":150000.0
+    },
+    {
+        "quadroSocietario":[
+            {
+                "condicao":"EMPRESARIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C 32",
+                        "numero":"sn",
+                        "complemento":"None",
+                        "bairro":"SETOR NOVO HORIZONTE",
+                        "cep":"74363380",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"NAO_INFORMADO",
+                    "regimeBens":"None"
+                },
+                "codigoCondicao":"801",
+                "entradaSociendade":1407888000000,
+                "saidaSociedade":1614124800000,
+                "participacao":"None",
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1407888000000,
+                "saidaSociedade":"None",
+                "participacao":30000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1613520000000,
+                "saidaSociedade":"None",
+                "participacao":0.0,
+                "representanteLegal":"None"
+            }
+        ],
+        "pessoaJuridica":{
+            "endereco":{
+                "logradouro":"AVENIDA NAPOLI",
+                "numero":"500",
+                "complemento":"QUADRAQC 01 LOTE AREA SALA 207 COND PLAZA DORO OFF",
+                "bairro":"RES ELDORADO",
+                "cep":"74367640",
+                "municipio":{
+                    "nome":"GOIÂNIA",
+                    "uf":"GO",
+                    "codigoIbge":"520870",
+                    "codigoIbgeCompleto":"5208707"
+                }
+            },
+            "nomeEmpresarial":"PLENITUDE CONSULTORIA E TREINAMENTOS LTDA",
+            "naturezaJuridica":"SOCIEDADE_EMPRESARIA_LIMITADA",
+            "codigoNaturezaJuridica":"206-2",
+            "nire":"52205110013",
+            "cnpj":"20829249000111",
+            "mei":false,
+            "constituicao":1407888000000,
+            "inicioAtividade":1407888000000,
+            "terminoAtividade":"None",
+            "historico":[
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1614124800000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1614124800000
+                },
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1407888000000
+                },
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1407888000000
+                },
+                {
+                    "ato":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "evento":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "data":1535673600000
+                },
+                {
+                    "ato":{
+                        "codigo":"904",
+                        "descricao":"MEDIDA ADMINISTRATIVA"
+                    },
+                    "evento":{
+                        "codigo":"939",
+                        "descricao":"OUTROS"
+                    },
+                    "data":1568246400000
+                },
+                {
+                    "ato":{
+                        "codigo":"350",
+                        "descricao":"ENQUADRAMENTO DE MEI"
+                    },
+                    "evento":{
+                        "codigo":"350",
+                        "descricao":"ENQUADRAMENTO DE MEI"
+                    },
+                    "data":1407888000000
+                }
+            ],
+            "atividadeEconomica":[
+                {
+                    "cnae":"8550302",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE APOIO À EDUCAÇÃO, EXCETO CAIXAS ESCOLARES"
+                },
+                {
+                    "cnae":"7020400",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE CONSULTORIA EM GESTÃO EMPRESARIAL, EXCETO CONSULTORIA TÉCNICA ESPECÍFICA"
+                },
+                {
+                    "cnae":"8599604",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL"
+                }
+            ],
+            "situacao":"REGISTRO_ATIVO",
+            "codigoSituacao":"00",
+            "porte":"ME",
+            "bloqueios":[
+                
+            ]
+        },
+        "ultimoArquivamento":1614124800000,
+        "capital":30000.0,
+        "capitalIntegralizado":30000.0
+    },
+    {
+        "quadroSocietario":[
+            {
+                "condicao":"EMPRESARIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA VV 5",
+                        "numero":"S/N",
+                        "complemento":"QUADRA0 LOTE AC-03",
+                        "bairro":"VILLAGE VENEZA",
+                        "cep":"74366098",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"PAULO SERGIO DA SILVA PANTOJA JUNIOR",
+                    "cpf":"92382835249",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"801",
+                "entradaSociendade":1528848000000,
+                "saidaSociedade":"None",
+                "participacao":"None",
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1620172800000,
+                "saidaSociedade":1673308800000,
+                "participacao":21000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1620172800000,
+                "saidaSociedade":1673308800000,
+                "participacao":0.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA VV 5",
+                        "numero":"S/N",
+                        "complemento":"QUADRA0 LOTE AC-03",
+                        "bairro":"VILLAGE VENEZA",
+                        "cep":"74366098",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"PAULO SERGIO DA SILVA PANTOJA JUNIOR",
+                    "cpf":"92382835249",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1528848000000,
+                "saidaSociedade":"None",
+                "participacao":30000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA VV 5",
+                        "numero":"S/N",
+                        "complemento":"QUADRA0 LOTE AC-03",
+                        "bairro":"VILLAGE VENEZA",
+                        "cep":"74366098",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"PAULO SERGIO DA SILVA PANTOJA JUNIOR",
+                    "cpf":"92382835249",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1528848000000,
+                "saidaSociedade":"None",
+                "participacao":0.0,
+                "representanteLegal":"None"
+            }
+        ],
+        "pessoaJuridica":{
+            "endereco":{
+                "logradouro":"AVENIDA PRESIDENTE VARGAS",
+                "numero":"904",
+                "complemento":"None",
+                "bairro":"SETOR CENTRAL",
+                "cep":"75901040",
+                "municipio":{
+                    "nome":"RIO VERDE",
+                    "uf":"GO",
+                    "codigoIbge":"521880",
+                    "codigoIbgeCompleto":"5218805"
+                }
+            },
+            "nomeEmpresarial":"O CRIADOR MARKETING DIGITAL LTDA",
+            "naturezaJuridica":"SOCIEDADE_EMPRESARIA_LIMITADA",
+            "codigoNaturezaJuridica":"206-2",
+            "nire":"52205170601",
+            "cnpj":"30689033000151",
+            "mei":false,
+            "constituicao":1528848000000,
+            "inicioAtividade":1528848000000,
+            "terminoAtividade":"None",
+            "historico":[
+                {
+                    "ato":{
+                        "codigo":"317",
+                        "descricao":"DESENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "evento":{
+                        "codigo":"317",
+                        "descricao":"DESENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "data":1588291200000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1585785600000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1586217600000
+                },
+                {
+                    "ato":{
+                        "codigo":"317",
+                        "descricao":"DESENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "evento":{
+                        "codigo":"317",
+                        "descricao":"DESENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "data":1586217600000
+                },
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1528848000000
+                },
+                {
+                    "ato":{
+                        "codigo":"080",
+                        "descricao":"INSCRIÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"081",
+                        "descricao":"INSCRIÇÃO DE MICROEMPREENDEDOR INDIVIDUAL"
+                    },
+                    "data":1528848000000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1560124800000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1620345600000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"022",
+                        "descricao":"ALTERAÇÃO DE DADOS E DE NOME EMPRESARIAL"
+                    },
+                    "data":1620345600000
+                },
+                {
+                    "ato":{
+                        "codigo":"002",
+                        "descricao":"ALTERAÇÃO"
+                    },
+                    "evento":{
+                        "codigo":"021",
+                        "descricao":"ALTERAÇÃO DE DADOS (EXCETO NOME EMPRESARIAL)"
+                    },
+                    "data":1676246400000
+                }
+            ],
+            "atividadeEconomica":[
+                {
+                    "cnae":"7319003",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"MARKETING DIRETO"
+                },
+                {
+                    "cnae":"5819100",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"EDIÇÃO DE CADASTROS, LISTAS E OUTROS PRODUTOS GRÁFICOS"
+                },
+                {
+                    "cnae":"5912099",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE PÓS-PRODUÇÃO CINEMATOGRÁFICA, DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO NÃO ESPECIFICADAS ANTERIORMENTE"
+                },
+                {
+                    "cnae":"6311900",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TRATAMENTO DE DADOS, PROVEDORES DE SERVIÇOS DE APLICAÇÃO E SERVIÇOS DE HOSPEDAGEM NA INTERNET"
+                },
+                {
+                    "cnae":"6319400",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"PORTAIS, PROVEDORES DE CONTEÚDO E OUTROS SERVIÇOS DE INFORMAÇÃO NA INTERNET"
+                },
+                {
+                    "cnae":"7311400",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"AGÊNCIAS DE PUBLICIDADE"
+                },
+                {
+                    "cnae":"7312200",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"AGENCIAMENTO DE ESPAÇOS PARA PUBLICIDADE, EXCETO EM VEÍCULOS DE COMUNICAÇÃO"
+                },
+                {
+                    "cnae":"7319002",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"PROMOÇÃO DE VENDAS"
+                },
+                {
+                    "cnae":"7319004",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"CONSULTORIA EM PUBLICIDADE"
+                },
+                {
+                    "cnae":"7490104",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"ATIVIDADES DE INTERMEDIAÇÃO E AGENCIAMENTO DE SERVIÇOS E NEGÓCIOS EM GERAL, EXCETO IMOBILIÁRIOS"
+                },
+                {
+                    "cnae":"8230001",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"SERVIÇOS DE ORGANIZAÇÃO DE FEIRAS, CONGRESSOS, EXPOSIÇÕES E FESTAS"
+                },
+                {
+                    "cnae":"8599604",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL"
+                },
+                {
+                    "cnae":"8599605",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"CURSOS PREPARATÓRIOS PARA CONCURSOS"
+                }
+            ],
+            "situacao":"REGISTRO_ATIVO",
+            "codigoSituacao":"00",
+            "porte":"ME",
+            "bloqueios":[
+                
+            ]
+        },
+        "ultimoArquivamento":1676246400000,
+        "capital":30000.0,
+        "capitalIntegralizado":30000.0
+    },
+    {
+        "quadroSocietario":[
+            {
+                "condicao":"SOCIO",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"101",
+                "entradaSociendade":1620259200000,
+                "saidaSociedade":"None",
+                "participacao":10000.0,
+                "representanteLegal":"None"
+            },
+            {
+                "condicao":"ADMINISTRADOR",
+                "pessoa":{
+                    "endereco":{
+                        "logradouro":"RUA C87",
+                        "numero":"495",
+                        "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                        "bairro":"VILA ALPES",
+                        "cep":"74310280",
+                        "municipio":{
+                            "nome":"GOIÂNIA",
+                            "uf":"GO",
+                            "codigoIbge":"520870",
+                            "codigoIbgeCompleto":"5208707"
+                        }
+                    },
+                    "nome":"ALEXANDRE MORELLI",
+                    "cpf":"02292619733",
+                    "estadoCivil":"CASADO",
+                    "regimeBens":"NAO_INFORMADO"
+                },
+                "codigoCondicao":"205",
+                "entradaSociendade":1620259200000,
+                "saidaSociedade":"None",
+                "participacao":0.0,
+                "representanteLegal":"None"
+            }
+        ],
+        "pessoaJuridica":{
+            "endereco":{
+                "logradouro":"RUA C87",
+                "numero":"495",
+                "complemento":"QUADRA22 LOTE 1/21 APT 2003",
+                "bairro":"VI ALPES",
+                "cep":"74310280",
+                "municipio":{
+                    "nome":"GOIÂNIA",
+                    "uf":"GO",
+                    "codigoIbge":"520870",
+                    "codigoIbgeCompleto":"5208707"
+                }
+            },
+            "nomeEmpresarial":"PLENITUDE MARKETING DIGITAL LTDA",
+            "naturezaJuridica":"SOCIEDADE_EMPRESARIA_LIMITADA",
+            "codigoNaturezaJuridica":"206-2",
+            "nire":"52205172680",
+            "cnpj":"41894176000111",
+            "mei":false,
+            "constituicao":1620691200000,
+            "inicioAtividade":1620691200000,
+            "terminoAtividade":"None",
+            "historico":[
+                {
+                    "ato":{
+                        "codigo":"090",
+                        "descricao":"CONTRATO"
+                    },
+                    "evento":{
+                        "codigo":"090",
+                        "descricao":"CONTRATO"
+                    },
+                    "data":1620691200000
+                },
+                {
+                    "ato":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "evento":{
+                        "codigo":"315",
+                        "descricao":"ENQUADRAMENTO DE MICROEMPRESA"
+                    },
+                    "data":1620691200000
+                }
+            ],
+            "atividadeEconomica":[
+                {
+                    "cnae":"7319003",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"MARKETING DIRETO"
+                },
+                {
+                    "cnae":"5811500",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"EDIÇÃO DE LIVROS"
+                },
+                {
+                    "cnae":"7319004",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"CONSULTORIA EM PUBLICIDADE"
+                },
+                {
+                    "cnae":"8599604",
+                    "atividade":"SECUNDÁRIO",
+                    "descricao":"TREINAMENTO EM DESENVOLVIMENTO PROFISSIONAL E GERENCIAL"
+                }
+            ],
+            "situacao":"REGISTRO_ATIVO",
+            "codigoSituacao":"00",
+            "porte":"ME",
+            "bloqueios":[
+                
+            ]
+        },
+        "ultimoArquivamento":1620691200000,
+        "capital":10000.0,
+        "capitalIntegralizado":10000.0
+    }
+]
