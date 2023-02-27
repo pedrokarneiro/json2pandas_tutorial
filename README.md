@@ -8,15 +8,18 @@ This is the result of reading the tutorial at https://towardsdatascience.com/how
 Dependencies / packages:
 ------------------------
 These simple codes use basically pandas, json and glom which can be easily installed in your venv by using, respectively:
-> pip install pandas
-> pip install json
-> pip install glam
+
+(venv) C:\> pip install pandas
+
+(venv) C:\> pip install json
+
+(venv) C:\> pip install glam
 
 Or you can simply run the command bellow to install all dependencies:
 
-(venv) C:\> python -m pip install -r requirements.txt
+> (venv) C:\> python -m pip install -r requirements.txt
 
 or
 
-(venv) $ python3 -m pip install -r requirements.txt
+> (venv) $ python3 -m pip install -r requirements.txt
 
