@@ -7,12 +7,12 @@ import pandas as pd
 import json
 
 # This will show the dataframe with the column students as a nested list.
-df = pd.read_json('data/nested_list.json')
+df = pd.read_json('nested_list.json')
 print('The original dataframe df \'as is\' from the json file:')
 print(df)
 
 # load data using Python JSON module
-with open('data/nested_list.json','r') as f:
+with open('nested_list.json','r') as f:
     data = json.loads(f.read())
     
 # Flatten data with pd.json_normalize(). Give data read (the json string) and the nested list column.

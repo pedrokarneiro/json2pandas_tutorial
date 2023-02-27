@@ -5,6 +5,6 @@
 ###################################################################################################
 import pandas as pd
 
-df = pd.read_json('data/simple.json')
+df = pd.read_json('simple.json')
 print(df)
 print(df.info())

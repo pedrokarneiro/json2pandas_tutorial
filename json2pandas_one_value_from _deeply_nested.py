@@ -8,7 +8,7 @@ import json # not used in this example.
 from glom import glom
 
 # This one gets the whole thing and the students as a long gut of nested stuff in it.
-df = pd.read_json('data/nested_deep.json')
+df = pd.read_json('nested_deep.json')
 print(df)
 
 # In other words, it gets the students as a dictionary...

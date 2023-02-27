@@ -34,13 +34,13 @@ import json
 #     ]
 # }
 
-# df = pd.read_json('data/nested_mix.json')
+# df = pd.read_json('nested_mix.json')
 # print(df)
 ## This will cause a cumbersome situation...
 ## ValueError: Mixing dicts with non-Series may lead to ambiguous ordering.
 
 # load data using Python JSON module
-with open('data/nested_mix.json','r') as f:
+with open('nested_mix.json','r') as f:
     data = json.loads(f.read())
     
 # Normalizing data
